@@ -23,8 +23,9 @@ Here are some of the very unique masterpieces that people created on our digital
 <img src="https://intro.nyuadim.com/wp-content/uploads/2021/12/IMG_4452-768x576.png" width="300"/>
 
 ### Videos 
-> (click to view videos)
 And here are a few video out of many of people interacting with our project (you can see how people move in the camera on the screen)!!
+
+> (click to view videos)
 
 <a href="https://vimeo.com/657145943">
     <img src="https://github.com/fnassar/Intro_to_IM/blob/main/Digital%20Doodle/dd1.png" width="400">
