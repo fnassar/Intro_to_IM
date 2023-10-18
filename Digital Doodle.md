@@ -25,4 +25,4 @@ And here are a few video out of many of people interacting with our project (you
 
 [![video 1](https://vimeo.com/657145943)](https://vimeo.com/657145943) \
 [![video 2](https://vimeo.com/657145943)](https://vimeo.com/657146942) \
-[![video 3](https://vimeo.com/657145943)](https://vimeo.com/657147229) \
+[![video 3](https://vimeo.com/657145943)](https://vimeo.com/657147229)
