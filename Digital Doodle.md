@@ -25,10 +25,14 @@ And here are a few video out of many of people interacting with our project (you
 
 <a href="https://vimeo.com/657145943">
     <img src="https://github.com/fnassar/Intro_to_IM/blob/main/Digital%20Doodle/dd1.png" width="300">
-</a>\
+</a>
+
+
 <a href="https://vimeo.com/657146942">
     <img src="https://github.com/fnassar/Intro_to_IM/blob/main/Digital%20Doodle/dd2.png" width="300">
-</a>\
+</a>
+
+
 <a href="https://vimeo.com/657147229">
     <img src="https://github.com/fnassar/Intro_to_IM/blob/main/Digital%20Doodle/dd3.png" width="300">
 </a>
