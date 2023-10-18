@@ -25,9 +25,7 @@ And here are a few video out of many of people interacting with our project (you
 
 ![video1]()
 
-[![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://vimeo.com/657145943)
-
-
+[![](https://vimeo.com/657145943)](https://vimeo.com/657145943)
 
 <video width="320" height="240" controls>
   <source src="https://vimeo.com/657146942" type="video/mp4">
