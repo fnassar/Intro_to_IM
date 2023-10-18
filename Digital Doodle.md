@@ -16,7 +16,8 @@ This project is one that definitely helped us grow. Naturally it was not a perfe
 ## IM showcase:
 
 Here are some of the very unique masterpieces that people created on our digital doodle in the showcase. It was so much fun seeing how different people interacted differently with our project!
-<img src="https://intro.nyuadim.com/wp-content/uploads/2021/12/drawing-768x574.png" width="50"/>
+
+<img src="https://intro.nyuadim.com/wp-content/uploads/2021/12/drawing-768x574.png" width="500"/>
 
 And here are a few video out of many of people interacting with our project (you can see how people move in the camera on the screen)!!
 
