@@ -22,7 +22,9 @@ Here are some of the very unique masterpieces that people created on our digital
 <img src="https://intro.nyuadim.com/wp-content/uploads/2021/12/IMG_4452-768x576.png" width="300"/>
 
 And here are a few video out of many of people interacting with our project (you can see how people move in the camera on the screen)!!
-<iframe title="vimeo-player" src="https://player.vimeo.com/video/657145943?h=0ecfb09f05" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+
+![video1](https://player.vimeo.com/video/657145943?h=0ecfb09f05)
+
 <video width="320" height="240" controls>
   <source src="https://vimeo.com/657146942" type="video/mp4">
 </video>
