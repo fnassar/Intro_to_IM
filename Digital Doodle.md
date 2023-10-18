@@ -23,6 +23,6 @@ Here are some of the very unique masterpieces that people created on our digital
 
 And here are a few video out of many of people interacting with our project (you can see how people move in the camera on the screen)!!
 
-[![video 1](./"Digital Doodle"/Screenshot 2023-10-19 at 03-05-28 9CBBE823-C832-4E72-8698-571CA2EE12E3.MP4.png)](https://vimeo.com/657145943) \
+[![video 1](https://github.com/fnassar/Intro_to_IM/blob/main/Digital%20Doodle/Screenshot%202023-10-19%20at%2003-05-28%209CBBE823-C832-4E72-8698-571CA2EE12E3.MP4.png)](https://vimeo.com/657145943) \
 [![video 2](https://vimeo.com/657145943)](https://vimeo.com/657146942) \
 [![video 3](https://vimeo.com/657145943)](https://vimeo.com/657147229)
