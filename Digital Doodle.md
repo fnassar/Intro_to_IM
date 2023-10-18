@@ -23,7 +23,7 @@ Here are some of the very unique masterpieces that people created on our digital
 
 And here are a few video out of many of people interacting with our project (you can see how people move in the camera on the screen)!!
 
-[![video 1]<img src="https://intro.nyuadim.com/wp-content/uploads/2021/12/IMG_4452-768x576.png" width="300"/>](https://vimeo.com/657145943) { width: 200px; } \
+!<img src="https://intro.nyuadim.com/wp-content/uploads/2021/12/IMG_4452-768x576.png" width="300"/>](https://vimeo.com/657145943) \
 
 [![video 2](https://github.com/fnassar/Intro_to_IM/blob/main/Digital%20Doodle/dd2.png)](https://vimeo.com/657146942) { width: 200px; } \
 [![video 3](https://github.com/fnassar/Intro_to_IM/blob/main/Digital%20Doodle/dd3.png)](https://vimeo.com/657147229) { width: 200px; }
