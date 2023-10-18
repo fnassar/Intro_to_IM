@@ -23,13 +23,15 @@ Here are some of the very unique masterpieces that people created on our digital
 
 And here are a few video out of many of people interacting with our project (you can see how people move in the camera on the screen)!!
 
-
-[(https://github.com/fnassar/Intro_to_IM/blob/main/Digital%20Doodle/dd1.png =300x400)](https://vimeo.com/657145943)
-
+<a href="https://vimeo.com/657145943">
+    <img src="https://github.com/fnassar/Intro_to_IM/blob/main/Digital%20Doodle/dd1.png" width="200">
+</a>
 
 <a href="https://vimeo.com/657146942">
     <img src="https://github.com/fnassar/Intro_to_IM/blob/main/Digital%20Doodle/dd2.png" width="200">
 </a>
 
 
-[![vid3](https://github.com/fnassar/Intro_to_IM/blob/main/Digital%20Doodle/dd3.png)](https://vimeo.com/657147229) { width: 200px; }
+<a href="https://vimeo.com/657147229">
+    <img src="https://github.com/fnassar/Intro_to_IM/blob/main/Digital%20Doodle/dd3.png" width="200">
+</a>
