@@ -27,6 +27,7 @@ And here are a few video out of many of people interacting with our project (you
     <img src="https://github.com/fnassar/Intro_to_IM/blob/main/Digital%20Doodle/dd1.png" width="500">
 </a>
 
+</br>
 
 <a href="https://vimeo.com/657146942">
     <img src="https://github.com/fnassar/Intro_to_IM/blob/main/Digital%20Doodle/dd2.png" width="500">
