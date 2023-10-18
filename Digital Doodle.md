@@ -23,8 +23,8 @@ Here are some of the very unique masterpieces that people created on our digital
 
 And here are a few video out of many of people interacting with our project (you can see how people move in the camera on the screen)!!
 
-[![video 1](https://vimeo.com/657145943)](https://vimeo.com/657145943)
+[![video 1](https://vimeo.com/657145943)](https://vimeo.com/657145943)\
 
-[![video 2](https://vimeo.com/657145943)](https://vimeo.com/657146942)
+[![video 2](https://vimeo.com/657145943)](https://vimeo.com/657146942)\
 
-[![video 3](https://vimeo.com/657145943)](https://vimeo.com/657147229)
+[![video 3](https://vimeo.com/657145943)](https://vimeo.com/657147229)\
